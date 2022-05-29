@@ -10,6 +10,7 @@ namespace hw1_test1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("hello world");
         }
     }
 }
