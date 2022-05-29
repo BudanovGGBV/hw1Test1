@@ -12,6 +12,7 @@ namespace hw1_test1
         {
             Console.WriteLine("hello world");
             Console.WriteLine("Feature branch 1 - development 1");
+            Console.WriteLine("Feature branch 1 - development 2");
         }
     }
 }
