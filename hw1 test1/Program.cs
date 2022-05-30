@@ -11,6 +11,8 @@ namespace hw1_test1
         static void Main(string[] args)
         {
             Console.WriteLine("hello world");
+            Console.WriteLine("Feature branch 1 - development 1");
+            Console.WriteLine("Feature branch 1 - development 2");
         }
     }
 }
